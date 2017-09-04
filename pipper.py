@@ -1,6 +1,7 @@
 # Pipper - Python Module able to automatically install missing imported libraries through pip
 # Author: D35m0nd142
 # Official Github Repository: https://github.com/D35m0nd142/Pipper
+# NOTE: If pip is not installed yet, Pipper will install it automatically
 import os
 import sys
 import urllib
