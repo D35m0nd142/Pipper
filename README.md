@@ -23,3 +23,8 @@ try:
 except:
   pip_install_module("module_name")
 ```
+<h3> Dependencies </h3>
+
+* Python <b>2.7</b>.x
+* Python extra modules: urllib, subprocess
+
