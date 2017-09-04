@@ -28,6 +28,6 @@ except:
 * Python <b>2.7</b>.x
 * Python extra modules: urllib, subprocess
 
-
-Author: D35m0nd142
+<br>
+Author: <b>D35m0nd142</b><br>
 Follow me: https://twitter.com/d35m0nd142
